@@ -37,7 +37,7 @@ Provide CNA and TNA with support for:
 5. baseline plugin framework for analytics of this type of data and details, like root cause analysis
 
 ### Promo (pre-release, updated Aug 15th)
-calipso.io 
+http://calipso.io  
 
 ### Contacts
 * Koren Lev (korlev@cisco.com)
