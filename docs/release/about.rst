@@ -226,9 +226,9 @@ Releases and Distributions
 Calipso is distributed for enterprises - ‘S’ release, through
 calipso.io, and for service providers - ‘P’ release, through OPNFV.
 
-..|image0| image:: media/image1.png
+.. |image0| image:: https://github.com/korenlev/calipso/blob/master/docs/release/media/image1.png
    :width: 6.50000in
    :height: 4.27153in
-..|image1| image:: media/image2.png
+.. |image1| image:: media/image2.png
    :width: 6.50000in
    :height: 3.52153in
