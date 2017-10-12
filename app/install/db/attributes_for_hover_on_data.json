@@ -44,7 +44,10 @@
         "mac_address", 
         "Speed", 
         "Link detected", 
-        "type"
+        "type",
+        "Bonding Mode", 
+        "Ethernet Channel Bonding Driver", 
+        "members"
     ], 
     "type" : "host_pnic"
 },
